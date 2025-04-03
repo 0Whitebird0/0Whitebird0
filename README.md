@@ -1,4 +1,5 @@
-<img src="https://github.com/shinhanseok.png" alt="Profile" width="200" height="200" style="border-radius: 50%; margin-bottom: 20px;">
+<img src="[https://github.com/shinhanseok.png](https://github.com/user-attachments/assets/017db12e-a6df-461d-9f15-7ffdfc062bd9)" alt="Profile" width="200" height="200" style="border-radius: 50%; margin-bottom: 20px;">
+![shs github (2)](https://github.com/user-attachments/assets/017db12e-a6df-461d-9f15-7ffdfc062bd9)
 
 # Shin hanseok
 ### Junior
