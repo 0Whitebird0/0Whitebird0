@@ -4,7 +4,7 @@
 # Shin hanseok
 ### Junior
 
-아직 한거없음
+아직 프로필 미완성
 
 🔭 **Featured Projects**
 - [Project Alpha](https://github.com/johndoe/project-alpha) - A revolutionary app built with React and Node.js
@@ -16,7 +16,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0Whitebird0&theme=dark" alt="GitHub Streak" />
 </p>
 
-🤝 **Connect With Me**
-- [GitHub](https://github.com/0Whitebird0)
-- [LinkedIn](https://linkedin.com/in/johndoe)
-- [Twitter](https://twitter.com/johndoe)
+
